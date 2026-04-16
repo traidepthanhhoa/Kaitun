@@ -1,5 +1,4 @@
--- ts file was generated at discord.gg/25ms
-
+-- Deptrai
 local L_1_ = {}
 
 L_1_[3] = table.concat
@@ -323,14 +322,14 @@ L_1_[42].AnchorPoint = Vector2.new(0.5, 0)
 L_1_[42].BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 L_1_[42].BackgroundTransparency = 0.25
 L_1_[42].BorderSizePixel = 2
-L_1_[42].BorderColor3 = Color3.fromRGB(255, 165, 0)
+L_1_[42].BorderColor3 = Color3.fromRGB(255, 0, 0)
 L_1_[42].Parent = L_1_[11]
 L_1_[41] = Instance.new('UICorner')
 L_1_[41].CornerRadius = UDim.new(0, 6)
 L_1_[41].Parent = L_1_[42]
 L_1_[12] = Instance.new('UIStroke')
 L_1_[12].Thickness = 2
-L_1_[12].Color = Color3.fromRGB(255, 165, 0)
+L_1_[12].Color = Color3.fromRGB(255, 0, 0)
 L_1_[12].ApplyStrokeMode = Enum.ApplyStrokeMode.Border
 L_1_[12].Parent = L_1_[42]
 
@@ -341,7 +340,7 @@ turtle.Size = UDim2.new(0, 24, 0, 24)
 turtle.Position = UDim2.new(0.5, 0, 0, -14)
 turtle.AnchorPoint = Vector2.new(0.5, 0)
 turtle.BackgroundTransparency = 1
-turtle.Image = 'rbxassetid://103268426470966'
+turtle.Image = 'rbxassetid://80909425320793'
 turtle.Rotation = 15
 turtle.Parent = L_1_[42]
 
@@ -354,8 +353,8 @@ L_1_[15].Size = UDim2.new(1, 0, 0, 18)
 L_1_[15].Position = UDim2.new(0.5, 0, 0, 6)
 L_1_[15].AnchorPoint = Vector2.new(0.5, 0)
 L_1_[15].BackgroundTransparency = 1
-L_1_[15].Text = 'BaMia - Kaitun'
-L_1_[15].TextColor3 = Color3.fromRGB(255, 165, 0)
+L_1_[15].Text = 'Pain Hub - Kaitun'
+L_1_[15].TextColor3 = Color3.fromRGB(255, 0, 0)
 L_1_[15].TextSize = 13
 L_1_[15].Font = Enum.Font.GothamBold
 L_1_[15].TextXAlignment = Enum.TextXAlignment.Center
@@ -367,7 +366,7 @@ L_1_[26].Position = UDim2.new(0.5, 0, 0.55, 0)
 L_1_[26].AnchorPoint = Vector2.new(0.5, 0)
 L_1_[26].BackgroundTransparency = 1
 L_1_[26].Text = 'Status : N/A'
-L_1_[26].TextColor3 = Color3.fromRGB(255, 165, 0)
+L_1_[26].TextColor3 = Color3.fromRGB(255, 0, 0)
 L_1_[26].TextSize = 12
 L_1_[26].Font = Enum.Font.Gotham
 L_1_[26].TextXAlignment = Enum.TextXAlignment.Center
