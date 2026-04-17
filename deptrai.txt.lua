@@ -53,7 +53,7 @@ end
     ['FPS Booster'] = false,
 }
 
-wait(3)
+wait(2)
 
 if game.Players.LocalPlayer.PlayerGui:FindFirstChild('Main (minimal)') then
     if game.Players.LocalPlayer.PlayerGui['Main (minimal)']:FindFirstChild('ChooseTeam') then
@@ -67,7 +67,7 @@ if game.Players.LocalPlayer.PlayerGui:FindFirstChild('Main (minimal)') then
     end
 end
 
-wait(5)
+wait(2)
 
 if game.Players.LocalPlayer.PlayerGui:FindFirstChild('Main (minimal)') then
     if game.Players.LocalPlayer.PlayerGui['Main (minimal)']:FindFirstChild('ChooseTeam') then
