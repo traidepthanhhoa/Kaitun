@@ -110,9 +110,9 @@ if not getgenv()["Configs"] then
 end
 -- Notification
 game.StarterGui:SetCore("SendNotification", {
-    Title = "Midnight X Hub",
+    Title = "Yeti Hub",
     Text = "Loading...",
-    Icon = "rbxassetid://101035606785326",
+    Icon = "rbxassetid://130624321566711",
     Duration = 10,
 })
 if game["Players"]["LocalPlayer"]["PlayerGui"]:FindFirstChild("Main (minimal)") then
@@ -367,7 +367,7 @@ local ImageLabel = Instance.new("ImageLabel")
 ImageLabel["BorderSizePixel"] = 0
 ImageLabel["BackgroundColor3"] = Color3.fromRGB(255, 255, 255)
 ImageLabel["AnchorPoint"] = Vector2.new(0.5, 0.5)
-ImageLabel["Image"] = "rbxassetid://101035606785326"
+ImageLabel["Image"] = "rbxassetid://130624321566711"
 ImageLabel["Size"] = UDim2.new(0.31788, 0, 0.46875, 0)
 ImageLabel["BackgroundTransparency"] = 1
 ImageLabel["Position"] = UDim2.new(0.5, 0, 0.21354, 0)
