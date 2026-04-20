@@ -1919,7 +1919,7 @@ local Uz = function(Y)
 		I.BackgroundColor3 = Color3.fromRGB(230, 230, 230);
 		I.BackgroundTransparency = 1.0;
 		I.Size = UDim2.new(1, 0, 1, 0);
-		I.Image = "rbxassetid://130624321566711";
+		I.Image = "rbxassetid://87590356939843";
 		I.ImageRectOffset = Vector2.new(284, 4);
 		I.ImageRectSize = Vector2.new(24, 24);
 		I.ImageColor3 = dz.UIColor["Search Icon Color"];
@@ -2041,7 +2041,7 @@ function Kz.CreateMain(Y)
 	m.Transparency = .8;
 	dz.ReadyForGuiLoaded = true;
 	local y = Instance.new("ImageLabel", z);
-	y.Image = "rbxassetid://87590356939843";
+	y.Image = "rbxassetid://";
 	y.BackgroundTransparency = 1;
 	y.ImageTransparency = .8;
 	y.Position = UDim2.new(0, -50, 0, -80);
