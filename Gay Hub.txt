@@ -1827,7 +1827,7 @@ local gz = Instance.new("ImageButton", nz.HideGui);
 gz.BorderSizePixel = 0;
 gz.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
 gz.AnchorPoint = Vector2.new(0, 1);
-gz.Image = "assetid://136485684668174";
+gz.Image = "assetid://87590356939843";
 gz.Size = UDim2.new(0, 50, 0, 50);
 gz.BorderColor3 = Color3.fromRGB(0, 0, 0);
 gz.Position = UDim2.new(.01, 0, .99, 0);
@@ -2017,7 +2017,7 @@ function Kz.CreateMain(Y)
 	r.Position = UDim2.new(.5, 0, .5, 0);
 	r.Selectable = true;
 	r.Size = UDim2.new(1, 30, 1, 30);
-	r.Image = "rbxassetid://129781592728096";
+	r.Image = "rbxassetid://87590356939843";
 	r.ScaleType = Enum.ScaleType.Slice;
 	r.SliceCenter = Rect.new(15, 15, 175, 175);
 	r.SliceScale = 1.3;
