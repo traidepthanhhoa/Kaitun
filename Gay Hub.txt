@@ -2041,7 +2041,7 @@ function Kz.CreateMain(Y)
 	m.Transparency = .8;
 	dz.ReadyForGuiLoaded = true;
 	local y = Instance.new("ImageLabel", z);
-	y.Image = "rbxassetid://131407996827614";
+	y.Image = "rbxassetid://87590356939843";
 	y.BackgroundTransparency = 1;
 	y.ImageTransparency = .8;
 	y.Position = UDim2.new(0, -50, 0, -80);
@@ -4198,20 +4198,20 @@ function Kz.CreateMain(Y)
 	return V;
 end;
 local Cz = Kz.CreateMain({ Desc = "" });
-local vz = Cz.T({ Page_Name = "Farm", Page_Title = "Farm" });
+local vz = Cz.T({ Page_Name = "Cày", Page_Title = "Cày" });
 local mz = Cz.T({ Page_Name = "Config", Page_Title = "Config" });
-local yz = Cz.T({ Page_Name = "Fighting Style", Page_Title = "Fighting Style" });
-local bz = Cz.T({ Page_Name = "Items Farm", Page_Title = "Items Farm" });
-local cz = Cz.T({ Page_Name = "Sea Events", Page_Title = "Sea Events" });
-local Hz = Cz.T({ Page_Name = "Mirage + RaceV4", Page_Title = "Mirage + RaceV4" });
+local yz = Cz.T({ Page_Name = "Phong Cách Chiến Đấu", Page_Title = "Phong Cách Chiến Đấu" });
+local bz = Cz.T({ Page_Name = "Cày Vật Phẩm", Page_Title = "Cày Vật Phẩm" });
+local cz = Cz.T({ Page_Name = "Sự Kiện Biển", Page_Title = "Sự Kiện Biển" });
+local Hz = Cz.T({ Page_Name = "Mirage và Tộc V4", Page_Title = "Mirage Và Tộc V4" });
 local Sz = Cz.T({ Page_Name = "Drago Dojo", Page_Title = "Drago Dojo" });
-local oz = Cz.T({ Page_Name = "Prehistoric", Page_Title = "Prehistoric" });
+local oz = Cz.T({ Page_Name = "Đảo Núi Lửa", Page_Title = "Đảo Núi Lửa" });
 local Zz = Cz.T({ Page_Name = "Raid", Page_Title = "Raid" });
-local Tz = Cz.T({ Page_Name = "Combat PVP", Page_Title = "Combat PVP" });
-local kz = Cz.T({ Page_Name = "Teleport", Page_Title = "Teleport" });
-local Lz = Cz.T({ Page_Name = "Fruits", Page_Title = "Fruits" });
-local Pz = Cz.T({ Page_Name = "Shop", Page_Title = "Shop" });
-local jz = Cz.T({ Page_Name = "Misc", Page_Title = "Misc" });
+local Tz = Cz.T({ Page_Name = "Chiến Đấu PVP", Page_Title = "Chiến Đấu PVP" });
+local kz = Cz.T({ Page_Name = "Dịch Chuyển", Page_Title = "Dịch Chuyển" });
+local Lz = Cz.T({ Page_Name = "Trái", Page_Title = "Trái" });
+local Pz = Cz.T({ Page_Name = "Cửa Hàng", Page_Title = "Cửa Hàng" });
+local jz = Cz.T({ Page_Name = "Lặt Vặt", Page_Title = "Misc" });
 local Gz = vz.CreateSection("Farm");
 Gz.CreateToggle({
 	Title = "Auto Farm Level",
