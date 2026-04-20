@@ -2074,7 +2074,7 @@ function Kz.CreateMain(Y)
 	F.BackgroundTransparency = 1.0;
 	F.Position = UDim2.new(0, 5, 0, dz.T1 and 5 or 0);
 	F.Size = UDim2.new(0, dz.T1 and 30 or 25, 0, dz.T1 and 15 or 25);
-	F.Image = "rbxassetid://136485684668174";
+	F.Image = "rbxassetid://87590356939843";
 	M.Name = "TextLabelMain";
 	M.Parent = w;
 	M.BackgroundColor3 = Color3.fromRGB(230, 230, 230);
@@ -2113,10 +2113,10 @@ function Kz.CreateMain(Y)
 	I.BorderSizePixel = 0;
 	I.Position = UDim2.new(0, 0, 0, 30);
 	I.Size = UDim2.new(1, -5, 1, -30);
-	I.BottomImage = "rbxasset://textures/ui/Scroll/scroll-middle.png";
+	I.BottomImage = "rbxasset://87590356939843";
 	I.CanvasSize = UDim2.new(0, 0, 0, 0);
 	I.ScrollBarThickness = 5;
-	I.TopImage = "rbxasset://textures/ui/Scroll/scroll-middle.png";
+	I.TopImage = "rbxasset://87590356939843";
 	W.Parent = I;
 	W.SortOrder = Enum.SortOrder.LayoutOrder;
 	W.Padding = UDim.new(0, 5);
